@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Radio Fi é uma personificação de uma biblioteca digita, para usar como sua radio online.
+Meu portifolio é mais um projeto para desenvolver e mostrar minhas habilidades.
 
 - [Acesse o projeto finalizado, online] https://rallx-pd.github.io/BusinessCard/
 
